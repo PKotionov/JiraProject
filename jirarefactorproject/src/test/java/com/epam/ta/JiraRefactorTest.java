@@ -1,8 +1,6 @@
 package com.epam.ta;
 
-import com.epam.ta.pages.JiraPage;
 import com.epam.ta.steps.Steps;
-import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
